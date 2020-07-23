@@ -67,3 +67,7 @@ console.log(this); // returns window
 ```
 
 In the above example, since this is used inside console.log, which is not inside any declared function, the context of 'this' is global and will return window, since the window
+
+NOTE
+
+I LOST THE REST OF MY NOTES ON THIS SECTION AND COULDN'T RECOVER. PURE SADNESS. 
