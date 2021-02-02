@@ -17,4 +17,20 @@ selector:pseudo-class {
 ### :hover
 
 The `:hover` pseudo-class is triggered by a user when hovering over the
-specified selector with their mouse. 
+specified selector with their mouse.
+
+Syntax:
+
+```css
+div:hover {
+    background: purple;
+}
+```
+
+The above code changes the background to purple when the div is hovered over
+with a mouse.
+
+Example: https://codepen.io/ItheApologist/pen/KKgYxvR
+
+### :active
+
